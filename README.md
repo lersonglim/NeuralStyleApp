@@ -20,3 +20,5 @@ Vanilla web application that allows you to upload content image and style image,
    ```shell
    python webserver/app.py
    ```
+## Future Plan
+Add other machine learning functionalities (i.e. denoise image, CycleGAN, image caption ...)
